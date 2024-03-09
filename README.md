@@ -7,8 +7,8 @@
  <hr>
   <div>
       <a href="https://https://github.com/MiguelMartiniCC">
-        <img height ="200em" src="https://github-readme-stats.vercel.app/api?username=MiguelMartini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-        <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMartini&layout=compact&langs_count=16&theme=dark"/>
+        <img height ="50%" src="https://github-readme-stats.vercel.app/api?username=MiguelMartini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMartini&layout=compact&langs_count=16&theme=dark"/>
   </div>
         <hr>
   <div>
