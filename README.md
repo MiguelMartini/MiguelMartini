@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Atualmente estudando Kotlin para desenvolvimento android
+- 🌱 Atualmente estudando desenvolvimento Web e Android
 - 🎒 Ciência da Computação (IFSC)
  <hr>
   <div>
