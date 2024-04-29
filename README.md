@@ -18,8 +18,8 @@
     <img align="center" alt="Miguel-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="Miguel-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
     <img align="center" alt="Miguel-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
-    <img align="center" alt="Miguel-Kotlin" height="30" width="40" src="https:https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-   <img align="center" alt="Miguel-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+    <img align="center" alt="Miguel-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
+   <img align="center" alt="Miguel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   </div>
         <br>
   <div>
