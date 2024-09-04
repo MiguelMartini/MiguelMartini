@@ -4,6 +4,7 @@
 - 🔭 Hoje trabalho com front-end
 - 🌱 Atualmente estudando desenvolvimento Web e Android
 - 🎒 Ciência da Computação (IFSC)
+- https://miguelmartini.github.io/Portfolio/
  <hr>
   <div>
       <a href="https://https://github.com/MiguelMartiniCC">
