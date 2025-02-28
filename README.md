@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Atualmente estudando desenvolvimento Web e Android
+- 🌱 Atualmente estudando desenvolvimento Web
 - 🎒 Ciência da Computação (IFSC)
 - 🌐 https://miguelmartini.github.io/Portfolio/
  <hr>
