@@ -3,6 +3,7 @@
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Atualmente estudando desenvolvimento Web
+- 🎒 Analise e Desenvolvimento de Sistemas (CENTRO UNIVERSITÁRIO SENAC)
 - 🎒 Ciência da Computação (IFSC)
 - 🌐 https://miguelmartini.github.io/Portfolio/
  <hr>
