@@ -1,4 +1,4 @@
-### Hello there, me chamo Miguel Martini! 👨‍💻
+### Hello there 🖖, me chamo Miguel Martini! 👨‍💻
 
 
 - 🔭 Hoje trabalho com front-end
