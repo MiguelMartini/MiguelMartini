@@ -1,8 +1,7 @@
 ### Hello there 🖖, me chamo Miguel Martini! 👨‍💻
 
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Atualmente estudando desenvolvimento Web
+- 🌱 Atualmente estudando desenvolvimento Web e Mobile
 - 🎒 Analise e Desenvolvimento de Sistemas (CENTRO UNIVERSITÁRIO SENAC)
 - 🎒 Ciência da Computação (IFSC)
 - 🌐 https://miguelmartini.github.io/Portfolio/
@@ -19,9 +18,14 @@
     <img align="center" alt="Miguel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Miguel-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img align="center" alt="Miguel-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+    <img align="center" alt="Miguel-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+    <img align="center" alt="Miguel-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
     <img align="center" alt="Miguel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
     <img align="center" alt="Miguel-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" alt="Miguel-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
+
+    
+            
+          
    
           
   </div>
