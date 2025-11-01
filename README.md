@@ -1,9 +1,9 @@
 ### Hello there 🖖, me chamo Miguel Martini! 👨‍💻
 
 
-- 🌱 Atualmente estudando desenvolvimento Web e Mobile
-- 🎒 Analise e Desenvolvimento de Sistemas (CENTRO UNIVERSITÁRIO SENAC)
-- 🎒 Ciência da Computação (IFSC)
+- 🌱 Atualmente estudando desenvolvimento Web
+- 🎒 Analise e Desenvolvimento de Sistemas (CENTRO UNIVERSITÁRIO SENAC) (5/5)
+- 🎒 Ciência da Computação (IFSC) (4/8)
 - 🌐 https://miguelmartini.github.io/Portfolio/
  <hr>
   <div>
